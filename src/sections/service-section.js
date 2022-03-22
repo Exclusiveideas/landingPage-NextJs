@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 /** @jsx jsx */
 import { jsx, Container, Box, Grid, Text, Heading, Button, Image } from 'theme-ui';
 import { keyframes } from '@emotion/core';
+import dynamic from 'next/dynamic';
 import TextFeature from 'components/text-feature';
 const ModalVideo = dynamic(() => import('react-modal-video'), { ssr: false });
 import { IoIosPlay } from 'react-icons/io';
