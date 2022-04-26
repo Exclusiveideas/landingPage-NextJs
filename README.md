@@ -1,4 +1,12 @@
-## Getting Started
+# StartupLanding
+
+![landing-page](https://user-images.githubusercontent.com/76836006/165221197-b3b997c2-19cc-451a-aee9-04ca5d0b739b.PNG)
+
+
+## Introduction
+A landing page for StartupLanding's product using Nextjs.
+
+## Setup
 
 Install the dependencies and run the development server
 
@@ -9,3 +17,8 @@ npm run dev
 yarn
 yarn dev
 ```
+
+## Live Version
+Visit https://landingpage-7eea8.web.app to view the live version of this landing page.
+
+#### Don't forget to star this repository✨✨.
