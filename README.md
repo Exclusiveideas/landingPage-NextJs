@@ -8,8 +8,8 @@ A landing page for StartupLanding's product using Nextjs.
 
 ## Setup
 
-To run this aplication on your machine, 
-1.) Clone this repository, 
+To run this aplication on your machine, <br />
+1.) Clone this repository, <br />
 2.) Install the dependencies and run the development server by running the code below
 
 ```bash
