@@ -4,7 +4,11 @@
 
 
 ## Introduction
-A landing page for StartupLanding's product using Nextjs.
+This application is the landing page page of a sample product.
+Major technologies used are: Next.js and React.js.
+I Created several components for ease of code reuse and optimization.
+I Applied eye catching and modern UI/UX Design for customer retention and sales conversion.
+For cloud services, Firebase is used.
 
 ## Setup
 
