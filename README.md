@@ -2,29 +2,29 @@
 
 ![landing-page](https://user-images.githubusercontent.com/76836006/165221197-b3b997c2-19cc-451a-aee9-04ca5d0b739b.PNG)
 
+## STACK
+[![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](https://github.com/Exclusiveideas)
 
-## Introduction
-This application is the landing page page of a sample product.
-Major technologies used are: Next.js and React.js.
-I Created several components for ease of code reuse and optimization.
-I Applied eye catching and modern UI/UX Design for customer retention and sales conversion.
-For cloud services, Firebase is used.
-
-## Setup
-
-To run this aplication on your machine, <br />
-1.) Clone this repository, <br />
-2.) Install the dependencies and run the development server by running the code below
-
-```bash
-npm install
-npm run dev
-# or
-yarn
-yarn dev
-```
 
 ## Live Version
-Visit https://landingpage-7eea8.web.app to view the live version of this landing page.
+Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this web application.
+
+
+## Installation Steps 
+**1. First clone the project by running** <br />
+   ``` git clone https://github.com/<your-username>/landingPage-NextJs.git ```
+<br />
+
+**2. Go into thr project directory**  <br />
+   ``` cd landingPage-NextJs ``` 
+   <br />
+   
+**3. Install all the dependencies** <br />
+    ``` npm i ``` 
+    <br />
+    
+**4. Start the application development server**<br />
+    ``` npm start ```
+<br />
 
 #### Don't forget to star this repository✨✨.
