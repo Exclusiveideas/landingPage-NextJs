@@ -25,6 +25,10 @@ Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this 
     
 **4. Start the application development server**<br />
     ``` npm start ```
+<br /> 
+
+
+**The app is now running**
 <br />
 
 #### Don't forget to star this repository✨✨.
