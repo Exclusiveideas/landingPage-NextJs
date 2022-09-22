@@ -15,7 +15,7 @@ Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this 
    ``` git clone https://github.com/<your-username>/landingPage-NextJs.git ```
 <br />
 
-**2. Go into thr project directory**  <br />
+**2. Go into the project directory**  <br />
    ``` cd landingPage-NextJs ``` 
    <br />
    
