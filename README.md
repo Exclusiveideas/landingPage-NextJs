@@ -12,7 +12,7 @@ Click [HERE](https://realtor-opal.vercel.app) to visit the live version of this 
 
 ## Installation Steps 
 **1. First clone the project by running** <br />
-   ``` git clone https://github.com/<your-username>/landingPage-NextJs.git ```
+   ``` git clone https://github.com/Exclusiveideas/landingPage-NextJs.git ```
 <br />
 
 **2. Go into the project directory**  <br />
